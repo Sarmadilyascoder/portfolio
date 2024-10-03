@@ -1,5 +1,4 @@
-# portfolio
-@@ -0,0 +1,88 @@
+# Portfolio
 # Data Scientist
 
 #### 🛠️ Technical Skills
@@ -57,7 +56,6 @@ Developed a **Tweet Prediction Score Model** that predicts tweet engagement usin
 - 📈 Designed and implemented the model using **Python** and **TensorFlow**, achieving a **25% accuracy improvement** in engagement prediction.
 - 🔍 Extracted key features using **NLP** and **text vectorization** methods for better prediction accuracy.
 - 🤖 Integrated the model with real-time data analysis tools for live tweet prediction.
-![Tweet Prediction Score Model](/assit_img/imge3.png)
 ---
 
 ### 💬 Chatbot Applications Using Flask and Streamlit
