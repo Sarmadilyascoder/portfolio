@@ -12,7 +12,7 @@
 
 ## Education
 - M.Phil., Mathematics | The University of Agriculture Faisalabad (UAF) (_November 2021_)								       		
-- M.S.c., Mathematics	 | The National College of Business Administration and Economics (_April 2019_)			        		
+- M.S.c., Mathematics	 | Ghazi University DG Khan (_April 2018_)			        		
 - AI and Data Science  | [Codanics (_April 2023_)](https://codanics.com/tutor-certificate/?cert_hash=9717cb0f6475a6f6)
 - Data Analytics and Business Intelligence | Digiskill (_March 2023_)
 - Advance AI and Data Science | [Xeven Solutions (_January 2024_)](https://training.xevensolutions.com/)
@@ -67,8 +67,6 @@ Built several chatbot applications using **Flask** and **Streamlit**, allowing u
 - 🎙️ Developed a **text-to-speech** feature that converts input text into natural-sounding audio.
 - 🖼️ Built a **text-to-image** generator using advanced **deep learning models**, enabling creative interactions.
 - 💻 Integrated the models with **Flask** and **Streamlit** for seamless user interaction.
-![text to speech bot](/assit_img/imge4.png)
-![text to image bot](/assit_img/imge5.png)
 ---
 
 ### 📊 Exploratory Data Analysis (EDA) Automation
@@ -78,11 +76,10 @@ Automated the **Exploratory Data Analysis (EDA)** process to quickly uncover ins
 - 🧐 Streamlined **EDA** to identify trends and correlations with **interactive visualizations**.
 - 📉 Detected patterns in large datasets, leading to better decision-making and insights.
 - 🔥 Reduced analysis time by **40%** using efficient, automated EDA tools.
-![EDA](/assit_img/imge6.png)
-![EDA](/assit_img/c0de.png)
+
 ## Contact Me
 
-- **Email:** naeemkhani2024@gmail.com
+- **Email:** sarmadilyas215@gmail.com
 - **LinkedIn:** [(https://www.linkedin.com/in/naeem-khan-datascientist/)](https://www.linkedin.com/in/naeem-khan-datascientist/))
 - **GitHub:** [github.com/Sarmadilyascoder](https://github.com/Sarmadilyascoder)
 
