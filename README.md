@@ -12,6 +12,16 @@ I design practical digital tools and data-focused workflows that help people and
 - **Backend systems** that connect workflows, manage records, and support dependable operations.
 
 ## Selected Work
+### FlowPilot — Premium AI Workflow Command Center
+
+A full-stack CRM and operations workspace that turns conversational requests into structured records, routes them through approval-gated workflows, and presents the work in a premium dark-mode command center.
+
+**Portfolio highlights:** accessible dark/light theme switching, semantic contrast tokens, staggered KPI entrance animations, responsive workflow pulse charts, loading skeletons, conversational intake, natural-language CRM search, human approval gates, audit history, and safe public demo mutations.
+
+**Technical scope:** React 19, TypeScript, Tailwind CSS 4, Express, tRPC, Drizzle ORM, MySQL/TiDB, Manus OAuth, Vitest, and responsive production-oriented UI patterns.
+
+> Honest scope: email, SMS, calendar, and third-party CRM execution remain simulated and approval-gated in the current prototype.
+
 
 ### SiAutomate — Customer Follow-up CRM
 
